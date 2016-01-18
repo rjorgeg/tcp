@@ -1,12 +1,6 @@
 @Rut
 probando git, a ver si nos sle de una vez!!!
 
-cambios 
-cambios
-cambios
-cambios
-cambios
-
 parece que ya le vamos cogiendo el truquillo....
 
 pasos:
