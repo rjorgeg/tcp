@@ -12,27 +12,6 @@ pasos:
 - git merge rama_en_remoto (rama_develop)
 - git push origin rama_develop (rama_develop)
 
-
-
-cambios 
-cambios
-cambios
-cambios
-cambios
-
-parece que ya le vamos cogiendo el truquillo....
-
-pasos:
-- git add . (developR)
-- git commit -m "comentario" (developR)
-- git push origin rama_en_remoto (developR)
-- git checkout rama_develop 
-- git pull origin rama_develop (rama_develop)
-- git merge rama_en_remoto (rama_develop)
-- git push origin rama_develop (rama_develop)
-
-
-
 .length //=> gives you the length of the string you put before this function p.e: "Rut".length => 3
 
 .substring()//=> "some word".substring(x, y) where x is where you start chopping and y is where you finish chopping the original string. 
