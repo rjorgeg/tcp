@@ -1,6 +1,14 @@
 @Rut
 probando git, a ver si nos sle de una vez!!!
 
+cambios 
+cambios
+cambios
+cambios
+
+
+
+
 
 .length //=> gives you the length of the string you put before this function p.e: "Rut".length => 3
 
